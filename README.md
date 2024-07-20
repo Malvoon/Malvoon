@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Malvoon
 - 👀 I’m interested in making a game on Unity and create my own website
-- 🌱 I’m currently learning Javascript and Python
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Javascript, Java, C or C++
 - 📫 How to reach me: smelvoon@gmail.com
 
